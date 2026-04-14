@@ -209,7 +209,8 @@ __marimo__/
 # Project
 data/
 logs/
-secret/private.key
+certs/
+certs/private.key
 certs/*.pem
 certs/*.der
 certs/*.csr
