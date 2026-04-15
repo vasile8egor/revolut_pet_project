@@ -217,3 +217,5 @@ certs/*.csr
 *.env
 test_rev.py
 cred.py
+jars/
+*.jar 
