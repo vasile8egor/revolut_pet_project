@@ -1,4 +1,4 @@
-# ReData - ReVolut Pet Prject
+# ReData - Revolut Pet Prject
 
 # Как запустить проект:
 
