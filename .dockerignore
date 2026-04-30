@@ -1,0 +1,9 @@
+# .dockerignore
+certs/
+logs/
+plugins/
+*.json
+*.key
+*.pem
+venv/
+.env
